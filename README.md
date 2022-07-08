@@ -25,7 +25,7 @@ Mac computer with an Intel or M1 processor (macOS 10.13+)
 
 ## Settings
 
-<img src="https://synappser.github.io/images/betas/zoom.png" width="526" />
+<img src="https://synappser.github.io/images/betas/zoom-ff.png" width="526" />
 
 
 ## Support
