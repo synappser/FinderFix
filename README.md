@@ -36,8 +36,8 @@ To submit issues or feature requests, please head to the [Issues](https://github
 
 #### Planned
 
-- [ ] Distribute settings over several Tab Views (UX requirement)
-- [ ] Allow for more global shortcuts (technical requirement)
+- [x] Distribute settings over several Tab Views (UX requirement)
+- [x] Allow for more global shortcuts (technical requirement)
 - [ ] Permanently set the hidden/shown status of
   - [ ] Sidebar
   - [ ] Toolbar
