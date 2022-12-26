@@ -21,9 +21,9 @@ Yes, FinderFix is free while it's in beta.
 
 ## System Requirements
 
-Apple silicon or Intel processor (macOS 10.15+)*
+Apple silicon or Intel processor (macOS 10.14.6+ *)
 
-\* _(minimum deployment target 10.13 with no warranties until Apple sorts out its mess with linking to system libraries instead of bundled ones on 10.13 and 10.14)_
+\* _According to the RECOMMENDED_MACOSX_DEPLOYMENT_TARGET build setting that indicates the recommended minimum deployment versions for each supported Xcode platform (currently at 10.14.6)_
 
 ## Settings
 
@@ -41,19 +41,21 @@ To submit issues or feature requests, please head to the [Issues](https://github
 
 - [x] Distribute settings over several Tab Views (UX requirement)
 - [x] Allow for more global shortcuts (technical requirement)
-- [ ] Permanently set the hidden/shown status of
-  - [ ] Sidebar
-  - [ ] Toolbar
-  - [ ] Tab
-  - [ ] Path
-  - [ ] Status Bar
+- [x] Set the hidden/shown status of
+  - [x] Sidebar
+  - [x] Toolbar
+  - [x] Path
+  - [x] Status Bar
+- [x] Set Sidebar width
+- [x] Add a Relaunch Finder button
+- [ ] Add a Check All/Uncheck All option
+- [ ] Override system view settings with own settings
+- [ ] Add a global shortcut to Relaunch Finder
 - [ ] Always open windows in icon, list, column, or cover flow view
-- [ ] Add a relaunch Finder button with a global shortcut
 - [ ] Add a Launch at Login checkbox (using the Service Management framework instead of the shared file list visible in User & Groups > Login Items)
 - [ ] Add an Export Settings button
 - [ ] Use current front-most window size and position as Defaults
 - [ ] Reposition DMG disk image windows without resizing them
-- [ ] Set Sidebar width
 - [ ] Add app localization
 
 #### Not Planned
