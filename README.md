@@ -21,9 +21,7 @@ Yes, FinderFix is free while it's in beta.
 
 ## System Requirements
 
-Apple silicon or Intel processor (macOS 10.14.6+ *)
-
-\* _According to the RECOMMENDED_MACOSX_DEPLOYMENT_TARGET build setting that indicates the recommended minimum deployment versions for each supported Xcode platform (currently at 10.14.6)_
+Apple silicon or Intel processor (macOS 10.15+)
 
 ## Settings
 
